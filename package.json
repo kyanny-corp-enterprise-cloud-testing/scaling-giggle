@@ -1,0 +1,15 @@
+{
+  "name": "@kyanny-corp-enterprise-cloud-testing/scaling-giggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "@kyanny-corp-enterprise-cloud-testing:registry": "https://npm.pkg.github.com"
+  }
+}
