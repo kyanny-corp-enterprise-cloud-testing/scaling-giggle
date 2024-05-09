@@ -19,3 +19,5 @@ jobs:
       with:
         node-version: 18
     - run: npm install @kyanny-corp-enterprise-cloud-testing/scaling-giggle@1.0.0
+      env:
+        NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
